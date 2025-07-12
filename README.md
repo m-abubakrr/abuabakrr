@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abuabakrr
+- 👋 Hi, I’m @abubakrr
 - 👀 I’m interested in data science and cybersecurity 
 - 🌱 I’m currently learning Fsc in Pakistan
 - 💞️ I’m looking to collaborate on learning platforms 
