@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abubakrr
-- 👀 I’m interested in data science and cybersecurity 
-- 🌱 I’m currently learning Fsc in Pakistan
+- 👀 I’m interested in analysis 
+- 🌱 I’m currently learning PYTHON 
 - 💞️ I’m looking to collaborate on learning platforms 
 - 📫 How to reach me abubakar64832@gmail.com 
 - 😄 Pronouns: he/him
